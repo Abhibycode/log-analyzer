@@ -1,0 +1,16 @@
+
+---
+
+## 🧠 How It Works
+1. Reads all `.log` files inside `sample_logs/`
+2. Identifies log type using keyword matching
+3. Extracts timestamps (YYYY-MM-DD HH:MM:SS)
+4. Generates a summary + detailed JSON report
+
+---
+
+## ▶️ Run the Tool
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
