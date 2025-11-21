@@ -1,0 +1,7 @@
+{
+  "patterns": {
+    "ERROR": ["error", "exception", "failed", "critical"],
+    "WARNING": ["warning", "deprecated", "slow"],
+    "INFO": ["started", "connected", "initialized"]
+  }
+}
